@@ -12,7 +12,7 @@
         <div>
             <h1 class="text-white font-bold text-4xl font-sans">devx00's log2root</h1>
             <p class="text-white mt-1">Get a Shell</p>
-            <button type="submit" class="block w-28 bg-white text-indigo-800 mt-4 py-2 rounded-2xl font-bold mb-2">I do nothing</button>
+            <a type="submit" class="block w-28 bg-white text-indigo-800 mt-4 py-2 rounded-2xl font-bold mb-2" href="/pwnme">Check It Out</a>
         </div>
     </div>
     <div class="flex w-1/2 justify-center items-center bg-white">
